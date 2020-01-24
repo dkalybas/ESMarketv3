@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237075805949",
+    "firebase_url": "https://esmarket-b7b9e.firebaseio.com",
+    "project_id": "esmarket-b7b9e",
+    "storage_bucket": "esmarket-b7b9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237075805949:android:a2a9b9c37cb53a3a8cb094",
+        "android_client_info": {
+          "package_name": "com.example.esmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237075805949-efe0fj1ibarg64tne6tvppuckl2ug6o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esmarket",
+            "certificate_hash": "937a9772b7259f3939fd88688883bbe0a84e6f92"
+          }
+        },
+        {
+          "client_id": "237075805949-t4d48t0m46goedsbpsejikg9funrb3pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmhYWmCdkOozR4xtRBqab0Nkhh5LQ20bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237075805949-t4d48t0m46goedsbpsejikg9funrb3pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/esm"
+    tools:context=".Newsletter">
+
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/myEmail"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="31dp"
+        android:layout_marginRight="25dp"
+        android:hint="E-mail"
+        android:text="Type your e-mail"
+        android:textColor="@android:color/black"
+        android:textSize="34sp"
+        app:met_baseColor="@android:color/black"
+        app:met_floatingLabel="highlight"
+        app:met_maxCharacters="25"
+        app:met_primaryColor="@android:color/white"
+        app:met_singleLineEllipsis="true" />
+
+
+
+
+    <Button
+        android:id="@+id/btnEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_below="@+id/myEmail"
+
+        android:background="#1C82D3"
+        android:text="Submit my E-mail"
+        android:textColor="@android:color/black"
+        ></Button>
+
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1864AD</color>
+    <color name="colorPrimaryDark">#1864AD</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btnOfSignUp">#1864AD</color>
+    <color name="btnOfSignIn">#1864AD</color>
+    <color name="btnOfEmail">#C6F44336</color>
+
+    <color name="overlayBackground">#1C82D3</color>
+    <color name="overlayActionBar">#3F51B5</color>
+
+
+    <color name="bgRowBackground">#66A6F0</color>
+
+</resources>
